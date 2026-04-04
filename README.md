@@ -56,9 +56,10 @@ Features: real-time updates and backend integration.
 
 
 ## Contact
-GitHub: https://github.com/Ameny323
-LinkedIn: https://www.linkedin.com/in/ameni-ben-zaghdane-6472a9356/
-Email: ameny.benzaghdane@esprit.tn
+GitHub: [https://github.com/Ameny323](https://github.com/Ameny323)  
+LinkedIn: Add your LinkedIn link here  
+Email: Add your professional email here   
+
 
 ---
 
