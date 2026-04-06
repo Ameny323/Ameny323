@@ -1,6 +1,5 @@
 # Hi 👋 I'm Ameni Ben Zaghdane
-I am a 4th year Software Engineering student from Tunisia.  
-Full Stack Developer with experience in web, mobile, and desktop applications.  
+I am a 4th year Software Architecture Engineering student from Tunisia, with experience in web, mobile, and desktop applications.  
 I am passionate about building scalable and maintainable software solutions.  
 
 ## Tech Stack
