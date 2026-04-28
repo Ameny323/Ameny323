@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Ameni Benzaghdane
 
-### Cloud Computing & DevOps Engineer · Full-Stack Developer
+### Software Architecture & DevOps Engineer 
 
-📍 Tunis, Tunisia &nbsp;|&nbsp; 📧 ameny.benzaghdane@gmail.com &nbsp;|&nbsp; 📱 +216 52 743 009
+📍 Tunis, Tunisia &nbsp;|&nbsp; 📧 ameny.benzaghdane@gmail.com &nbsp;|&nbsp; 
 
 [![GitHub followers](https://img.shields.io/github/followers/Ameny323?style=social)](https://github.com/Ameny323)
 
@@ -113,20 +113,7 @@ Production-grade microservices system with a complete frontend:
 |:------:|:------:|:-------:|
 | Native | Professional | Professional |
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Ameni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ameny323&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ameny323&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
 
 💬 *Feel free to reach out for collaborations, internship opportunities, or just a tech chat!*
 
