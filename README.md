@@ -4,7 +4,7 @@
 
 ### Software Architecture & DevOps Engineer 
 
-📍 Tunis, Tunisia &nbsp;|&nbsp; 📧 ameny.benzaghdane@gmail.com &nbsp;|&nbsp; 
+📍 Tunis, Tunisia &nbsp;|&nbsp; 📧 amanizagdane@gmail.com &nbsp;|&nbsp; 
 
 [![GitHub followers](https://img.shields.io/github/followers/Ameny323?style=social)](https://github.com/Ameny323)
 
