@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **4th-year Software Architecture Engineering student** specializing in **Cloud Computing & DevOps**. I'm passionate about building scalable, production-ready systems through modern DevOps practices, microservices architecture, and full-stack development.
+I'm a **4th-year Software Architecture Engineering student** specializing in DevOps**. I'm passionate about building scalable, production-ready systems through modern DevOps practices, microservices architecture, and full-stack development.
 
 - 🔭 Currently working on microservices platforms with Spring Boot & Angular
 - 🌱 Deepening expertise in Kubernetes, observability, and cloud-native patterns
